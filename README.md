@@ -6,4 +6,6 @@
 
 Programa            | Aplicação | Versão | Linguagem
 ----------------- | -------- | :---------: | :---------:
-[Trendapi](https://github.com/lucasbguima/Aplicativos/blob/master/Aplicativo%20de%20Tickets/ticket.c)  | Consumo da API Google Trends via pytrends.| 1.0 | Python
+[Trendapi]()  | Consumo da API Google Trends via pytrends.| 1.0 | Python
+
+[Reservapi]()  | Criação de API para Reservas em Hotéis.| 1.0 | Python
