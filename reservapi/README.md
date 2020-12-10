@@ -1,6 +1,6 @@
 # Reservapi
 
-Reservapi é uma API para se agendar reservas em hotéis.
+Reservapi é uma API para agendamento de reservas em hotéis.
 
   - Cadastro de Usuários
   - Cadastro de Hotéis
@@ -64,12 +64,12 @@ $ python manage.py runserver
 # Links
 
 Para acessar o servidor rodando no link da administração:
-http://localhost:8000/admin
+- http://localhost:8000/admin
 
 Para acessar os endpoints da API:
-http://localhost:8000/api/users
-http://localhost:8000/api/hotels
-http://localhost:8000/api/agendamentos
+- http://localhost:8000/api/users
+- http://localhost:8000/api/hotels
+- http://localhost:8000/api/agendamentos
 
 O link principal http://localhost:8000 está inativo.
 
