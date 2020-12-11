@@ -27,11 +27,12 @@ $ git clone https://github.com/lucasbguima/APIs.git
 Obs: Todos subdiretórios do repositório APIs serão clonados. 
 
 ### Passo 2
-Entre na pasta do Reservapi e Crie e Ative um ambiente virtual chamado "venv":
+Entre na pasta APIs, e no subpasta Reservapi e Crie e Ative um ambiente virtual chamado "venv":
 
 Para Windows:
 
 ```sh
+$ cd apis
 $ cd reservapi
 $ pipenv venv
 $ venv\scripts\activate
@@ -40,6 +41,7 @@ $ venv\scripts\activate
 Para ambiente Linux ou MacOS:
 
 ```sh
+$ cd apis
 $ cd reservapi
 $ pipenv venv
 $ venv/scripts/activate
