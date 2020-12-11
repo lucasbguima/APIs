@@ -29,16 +29,21 @@ Obs: Todos subdiretórios do repositório APIs serão clonados.
 ### Passo 2
 Entre na pasta do Reservapi e Crie e Ative um ambiente virtual chamado "venv":
 
+Para Windows:
+
 ```sh
 $ cd reservapi
 $ pipenv venv
 $ venv\scripts\activate
 ```
 
-OBS: Por padrão, confira seu sistema operacional ao executar o comando acima:
+Para ambiente Linux ou MacOS:
 
-WINDOWS: utilize barra invertida "\" para separar os diretórios.
-LINUX OU MACoS: utilize barra normal "/" para separar os diretórios.
+```sh
+$ cd reservapi
+$ pipenv venv
+$ venv/scripts/activate
+```
 
 ### Passo 3
 
