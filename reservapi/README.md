@@ -6,9 +6,10 @@ Reservapi é uma API para agendamento de reservas em hotéis.
   - Cadastro de Hotéis
   - Agendamentos
 
-Sua base foi criada utilizando-se Django Rest Framework:
+Sua base foi criada utilizando-se Django e Django Rest Framework:
 
 * [Django](https://docs.djangoproject.com/en/3.1/) - The web framework for perfectionists with deadlines.
+* [Django-Rest-Framework](https://www.django-rest-framework.org/) - A powerful and flexible toolkit for building Web APIs.
 
 # Instalação
 
