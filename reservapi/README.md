@@ -22,7 +22,7 @@ Essa API faz parte do pacote de APIs do desenvolvedor Lucas B Guima, portanto ao
 
 Clone o diretório Reservapi para seu computador utilizando o comando:
 ```sh
-$ git-clone https://github.com/lucasbguima/APIs.git
+$ git clone https://github.com/lucasbguima/APIs.git
 ```
 Obs: Todos subdiretórios do repositório APIs serão clonados. 
 
