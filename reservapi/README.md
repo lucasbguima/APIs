@@ -34,7 +34,7 @@ Para Windows:
 ```sh
 $ cd apis
 $ cd reservapi
-$ pipenv venv
+$ virtualenv venv
 $ venv\scripts\activate
 ```
 
@@ -43,7 +43,7 @@ Para ambiente Linux ou MacOS:
 ```sh
 $ cd apis
 $ cd reservapi
-$ pipenv venv
+$ virtualenv venv
 $ venv/scripts/activate
 ```
 
