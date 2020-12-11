@@ -27,7 +27,7 @@ $ git clone https://github.com/lucasbguima/APIs.git
 Obs: Todos subdiretórios do repositório APIs serão clonados. 
 
 ### Passo 2
-Entre na pasta APIs, e no subpasta Reservapi e Crie e Ative um ambiente virtual chamado "venv":
+Entre na pasta APIs, e na subpasta Reservapi e Crie e Ative um ambiente virtual chamado "venv":
 
 Para Windows:
 
