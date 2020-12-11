@@ -35,6 +35,11 @@ $ pipenv venv
 $ venv\scripts\activate
 ```
 
+OBS: Por padrão, confira seu sistema operacional ao executar o comando acima:
+
+WINDOWS: utilize barra invertida "\" para separar os diretórios.
+LINUX OU MACoS: utilize barra normal "/" para separar os diretórios.
+
 ### Passo 3
 
 Entre na pasta do Backend, crie e rode as migrations:
